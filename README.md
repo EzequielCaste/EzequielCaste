@@ -2,7 +2,7 @@
 <h3 align="center"><strong>Front-end Developer</strong></h3>
 
 - 🌱 I’m currently working on **builing a website for a small business**
-- 🎨 I’m currently learning **react context**
+- 🎨 I’m currently learning **building a collaborative React project with fellow developers of the [https://github.com/frontendcafe/cmyk-tiger](Frontend Cafe) **
 - 📫 How to reach me **ezequiel.caste@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -24,6 +24,10 @@
 - Git, GitHub
 </p>
 
+### Scrimba's JavaScriptmas Challenges
+
+[Dev.to Article with my solutions](https://dev.to/ezequiel_caste/javascriptmas-solutions-5gc8)
+
 <h3 align="left">Frontend Mentor Challenges:</h3>
 
 [Social Proof Section](https://github.com/EzequielCaste/social-proof-section-master)

@@ -37,6 +37,7 @@
 <h3 align="left">DevChallenges Challenges:</h3>
 
 [Recipe Page](https://github.com/EzequielCaste/recipe-page-challenge)
+
 [Gallery Page](https://github.com/EzequielCaste/my-gallery-challenge)
 
 

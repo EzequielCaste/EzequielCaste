@@ -44,6 +44,10 @@
 
 [Gallery Page](https://github.com/EzequielCaste/my-gallery-challenge)
 
+[Checkout Page](https://github.com/EzequielCaste/checkout-page-challenge)
+
+[Homepage](https://github.com/EzequielCaste/homepage-challenge)
+
 
 
 ![EzequielCaste stats](https://github-readme-stats.vercel.app/api?username=ezequielcaste&show_icons=true&theme=radical)

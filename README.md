@@ -28,7 +28,7 @@
 
 [Dev.to Article with my solutions](https://dev.to/ezequiel_caste/javascriptmas-solutions-5gc8)
 
-<h3 align="left">Frontend Mentor Challenges:</h3>
+### Frontend Mentor Challenges:
 
 [Social Proof Section](https://github.com/EzequielCaste/social-proof-section-master)
 
@@ -38,7 +38,9 @@
 
 [Article Preview Component](https://github.com/EzequielCaste/article-preview-component-master)
 
-<h3 align="left">DevChallenges Challenges:</h3>
+[Coding Bootcamp Testimonials Slider](https://github.com/EzequielCaste/coding-bootcamp-slider)
+
+### DevChallenges Challenges:
 
 [Recipe Page](https://github.com/EzequielCaste/recipe-page-challenge)
 

@@ -28,6 +28,7 @@
 
 [Dev.to Article with my solutions](https://dev.to/ezequiel_caste/javascriptmas-solutions-5gc8)
 
+
 ### Frontend Mentor Challenges:
 
 [Social Proof Section](https://github.com/EzequielCaste/social-proof-section-master)
@@ -40,7 +41,12 @@
 
 [Coding Bootcamp Testimonials Slider](https://github.com/EzequielCaste/coding-bootcamp-slider)
 
+
 ### DevChallenges Challenges:
+
+[404 Page](https://github.com/EzequielCaste/404-not-found-challenge)
+
+[My Team Page](https://github.com/EzequielCaste/my-team-page)
 
 [Recipe Page](https://github.com/EzequielCaste/recipe-page-challenge)
 

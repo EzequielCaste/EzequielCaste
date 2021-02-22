@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezequiel</h1>
-<h3 align="center">frontend developer and EN/ES translator from Argentina</h3>
+<h3 align="center">frontend developer and English/Spanish translator from Argentina</h3>
 
 - 🔭 I’m currently working on [my personal site](https://github.com/EzequielCaste/personal-site)
 

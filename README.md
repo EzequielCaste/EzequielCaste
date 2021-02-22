@@ -1,61 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ezequiel Castellanos</h1>
-<h3 align="center"><strong>Front-end Developer</strong></h3>
+<h1 align="center">Hi 👋, I'm Ezequiel</h1>
+<h3 align="center">frontend developer and EN/ES translator from Argentina</h3>
 
-- 🌱 I’m currently working on **builing a website for a small business**
-- 🎨 I’m currently **building a collaborative React project with fellow developers of the [Frontend Cafe](https://github.com/frontendcafe/cmyk-tiger)**
+- 🔭 I’m currently working on [my personal site](https://github.com/EzequielCaste/personal-site)
+
+- 🌱 I’m currently learning **React, Next.js and Tailwind**
+
+- 👨‍💻 All of my projects are available at [https://ezecaste.web.app/](https://ezecaste.web.app/)
+
+- 💬 Ask me about **my pizza recipe**
+
 - 📫 How to reach me **ezequiel.caste@gmail.com**
+
+- 📄My resume [https://github.com/EzequielCaste/CV/raw/main/Ezequiel%20Castellanos%20Resume.pdf](https://github.com/EzequielCaste/CV/raw/main/Ezequiel%20Castellanos%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Ezequiel_Caste" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ezequiel_Caste" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ezequiel-castellanos-a9ab6b1b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ezequiel_Caste" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/EzequielCaste" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Ezequiel_Caste" height="30" width="40" /></a>
-<a href="https://codepen.io/ezequiel_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ucoysfcqbo-idiakk4emxtra" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/ezequiel_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/ezequiel_/" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/ezequiel_caste" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/ezequiel_caste" height="30" width="40" /></a>
+<a href="https://twitter.com/ezequiel_caste" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ezequiel_caste" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ezequiel-castellanos-a9ab6b1b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ezequiel-castellanos-a9ab6b1b8/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/ezequielcaste" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/ezequielcaste" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-- HTML, CSS
-- JavaScript
-- React.js
-- Node.js
-- Express
-- MongoDB
-- Git, GitHub
-</p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### Scrimba's JavaScriptmas Challenges
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezequielcaste&show_icons=true&locale=en&layout=compact" alt="ezequielcaste" /></p>
 
-[Dev.to Article with my solutions](https://dev.to/ezequiel_caste/javascriptmas-solutions-5gc8)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezequielcaste&show_icons=true&locale=en" alt="ezequielcaste" /></p>
 
-
-### Frontend Mentor Challenges:
-
-[Social Proof Section](https://github.com/EzequielCaste/social-proof-section-master)
-
-[Profile Card Component](https://github.com/EzequielCaste/profile-card-component-main)
-
-[FAQ Accordion Card](https://github.com/EzequielCaste/faq-accordion-card-main)
-
-[Article Preview Component](https://github.com/EzequielCaste/article-preview-component-master)
-
-[Coding Bootcamp Testimonials Slider](https://github.com/EzequielCaste/coding-bootcamp-slider)
-
-
-### DevChallenges Challenges:
-
-[404 Page](https://github.com/EzequielCaste/404-not-found-challenge)
-
-[My Team Page](https://github.com/EzequielCaste/my-team-page)
-
-[Recipe Page](https://github.com/EzequielCaste/recipe-page-challenge)
-
-[Gallery Page](https://github.com/EzequielCaste/my-gallery-challenge)
-
-[Checkout Page](https://github.com/EzequielCaste/checkout-page-challenge)
-
-[Homepage](https://github.com/EzequielCaste/homepage-challenge)
-
-
-
-![EzequielCaste stats](https://github-readme-stats.vercel.app/api?username=ezequielcaste&show_icons=true&theme=radical)
+<p align="left"> <a href="https://twitter.com/ezequiel_caste" target="blank"><img src="https://img.shields.io/twitter/follow/ezequiel_caste?logo=twitter&style=for-the-badge" alt="ezequiel_caste" /></a> </p>

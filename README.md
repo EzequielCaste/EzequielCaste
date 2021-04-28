@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Next.js and Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://ezecastellanos.com.ar/](https://ezecaste.web.app/)
+- 👨‍💻 All of my projects are available at [https://ezecastellanos.com.ar/](https://ezecastellanos.com.ar/)
 
 - 💬 Ask me about **my pizza recipe**
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ezequiel</h1>
 <h3 align="center">frontend developer and English/Spanish translator from Argentina</h3>
 
-- 🔭 I’m currently working on [my personal site](https://ezecastellanos.com.ar)
+- 🔭 I’m currently working on [my personal site](https://github.com/EzequielCaste/personal-site)
 
-- 🌱 I’m currently learning **React, Next.js and Tailwind**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://ezecastellanos.com.ar/](https://ezecastellanos.com.ar/)
 

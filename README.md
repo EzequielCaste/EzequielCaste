@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my personal site](https://github.com/EzequielCaste/personal-site)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Storybook**
 
 - 👨‍💻 All of my projects are available at [https://ezecastellanos.com.ar/](https://ezecastellanos.com.ar/)
 

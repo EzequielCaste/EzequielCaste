@@ -5,7 +5,7 @@ Previously I have worked at [WIP-IT](https://www.wipit.net/) where we developed 
 
 ## About Me
 <!-- - 🔭 I’m currently working on:  -->
-- 🌱 I’m currently learning: [TypeScript](https://www.udemy.com/course/fundamentos-de-typescript/) so I can better understand the more advanced topics.
+- 🌱 I’m currently learning: [React Native](https://reactnative.dev/) so I can complete a code challenge requested by a hiring company.
 - 🤔 What I want to learn next: Improving my React skills with [React Hooks](https://reactjs.org/docs/hooks-intro.html).
 - 📫 How to reach me: `ezequiel.caste@gmail.com`
 - ⚡ Fun fact: I used to work as a Translator 📚

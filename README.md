@@ -5,7 +5,7 @@ I specialize in JavaScript and have experience working with React. I've worked w
 
 I am a team player, motivated to learn, and an open-minded person. I'm always looking for new challenges and learning new things to improve my knowledge and give the best of myself in a job.
 
-Previously I have worked at [WIP-IT](https://www.wipit.net/) where we developed a web application used by recruiters across various countries. My main responsibilities included developing and testing new features for the application and their time estimation. Most of them were related to the UI of the app.
+Previous work experience: [Clevertech](https://www.clevertech.biz/) I have worked on their Internal Project where I helped to maintain an application based on React and Node.js that manages the entire Clevertech operation, including HR, projects, payments, developers, and leads. My role was to create new features for the app both on the front end and back end in addition to bug fixes. Technologies used: ReactJS, Redux Saga, Mongoose, MongoDB and ExpressJS.
 
 Contact me: ezequiel.caste@gmail.com
 

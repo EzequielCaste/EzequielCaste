@@ -25,5 +25,7 @@ Contact me: ezequiel.caste@gmail.com
 - [PostgreSQL](https://www.postgresql.org/)
 - [GraphQL](https://graphql.org/)
 - [Apollo](https://www.apollographql.com/docs/)
+- [Jest](https://jestjs.io/docs/getting-started)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [Semantic UI](https://semantic-ui.com/)
 - [Styled Components](https://styled-components.com/)

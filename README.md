@@ -11,7 +11,7 @@ Contact me: ezequiel.caste@gmail.com
 ## About Me
 - 🔭 I’m currently working on:  [Social Media App](https://ezecaste-social-app.netlify.app/) with React, GraphQL and Semantic UI 
 - 🌱 I’m currently learning: Improving my React skills with [React Hooks](https://reactjs.org/docs/hooks-intro.html).
-- 🤔 What I want to learn next: [TypeScript](https://www.typescriptlang.org/)
+- 🤔 What I want to master: [TypeScript](https://www.typescriptlang.org/)
 - 📫 How to reach me: `ezequiel.caste@gmail.com`
 - ⚡ Fun fact: I used to work as an English/Spanish Translator 📚
 

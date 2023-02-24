@@ -1,10 +1,8 @@
 # Ezequiel Castellanos
 
-👋 Hi, I'm a Front-end Developer specialized in JavaScript and have experience working with React. I've worked with backend technologies too, such as Nodejs, Express, MongoDB, and PostgreSQL.
+👋 Hi, I'm a Frontend Developer specialized in JavaScript and have experience working with React. I've worked with backend technologies too, such as Nodejs, Express, MongoDB, and PostgreSQL.
 
 I am a team player, motivated to learn, and an open-minded person. I'm always looking for new challenges and learning new things to improve my knowledge and give the best of myself in a job.
-
-Previous work experience: [Clevertech](https://www.clevertech.biz/) I have worked on their Internal Project where I helped to maintain an application based on React and Node.js that manages the entire Clevertech operation, including HR, projects, payments, developers, and leads. My role was to create new features for the app both on the front end and back end in addition to bug fixes. Technologies used: ReactJS, Redux Saga, Mongoose, MongoDB and ExpressJS.
 
 Contact me: ezequiel.caste@gmail.com
 

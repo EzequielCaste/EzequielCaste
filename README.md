@@ -1,8 +1,10 @@
 # Ezequiel Castellanos
 
-👋 Hi, I'm a Frontend Developer specialized in JavaScript and have experience working with React. I've worked with backend technologies too, such as Nodejs, Express, MongoDB, and PostgreSQL.
+👋 Hi, I'm a Frontend Developer specialized in JavaScript and have experience working with **React**. I've worked with backend technologies too, such as **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**.
 
-I am a team player, motivated to learn, and an open-minded person. I'm always looking for new challenges and learning new things to improve my knowledge and give the best of myself in a job.
+Passionate software developer excited about modern web development and building awesome stuff.
+
+I am experienced in working on the front-end of web applications and providing end-to-end solutions. Additionally, I love studying new tools and technologies that can improve the business and the quality of our products.
 
 Contact me: ezequiel.caste@gmail.com
 

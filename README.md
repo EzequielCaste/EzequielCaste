@@ -6,7 +6,7 @@ Passionate software developer excited about modern web development and building 
 
 I am experienced in working on the front-end of web applications and providing end-to-end solutions. Additionally, I love studying new tools and technologies that can improve the business and the quality of our products.
 
-Contact me: ezequiel.caste@gmail.com
+Contact me: ezequiel.caste@gmail.com 
 
 ## About Me
 - 🔭 I’m currently working on:  [Social Media App](https://ezecaste-social-app.netlify.app/) with React, GraphQL and Semantic UI 

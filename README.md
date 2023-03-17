@@ -1,4 +1,4 @@
-# Ezequiel Castellanos 
+# Ezequiel Castellanos
 
 👋 Hi, I'm a Frontend Developer specialized in JavaScript and have experience working with **React**. I've worked with backend technologies too, such as **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**.
 
